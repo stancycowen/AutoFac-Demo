@@ -1,0 +1,8 @@
+D:\mycode\github\MyAutoDemo\AutoFacDemo\AutoFac.Dal\bin\Debug\AutoFac.Dal.dll
+D:\mycode\github\MyAutoDemo\AutoFacDemo\AutoFac.Dal\bin\Debug\AutoFac.Dal.pdb
+D:\mycode\github\MyAutoDemo\AutoFacDemo\AutoFac.Dal\obj\Debug\AutoFac.Dal.dll
+D:\mycode\github\MyAutoDemo\AutoFacDemo\AutoFac.Dal\obj\Debug\AutoFac.Dal.pdb
+D:\mycode\github\MyAutoFacDemo\AutoFacDemo\AutoFac.Dal\bin\Debug\AutoFac.Dal.dll
+D:\mycode\github\MyAutoFacDemo\AutoFacDemo\AutoFac.Dal\bin\Debug\AutoFac.Dal.pdb
+D:\mycode\github\MyAutoFacDemo\AutoFacDemo\AutoFac.Dal\obj\Debug\AutoFac.Dal.dll
+D:\mycode\github\MyAutoFacDemo\AutoFacDemo\AutoFac.Dal\obj\Debug\AutoFac.Dal.pdb
